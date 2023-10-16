@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Web Developer | AI Enthusiast</h3>
 
 - 🌱 I’m currently learning I am continuously expanding my knowledge and skills in web development, data analytics, and software engineering. In addition to my academic pursuits, I'm exploring the following areas:
- - Advanced web development techniques, including front-end frameworks like React and back-end technologies such as Node.js.
-- Exploring data analytics and database management to strengthen my understanding of data-driven decision-making.
-- Advancing my coding skills in Python, C, and C++ to tackle more complex programming challenges.
--  Expanding my proficiency with tools like Figma and Canva for UI/UX design and visual content creation.
+  Advanced web development techniques, including front-end frameworks like React and back-end technologies such as Node.js.
+ Exploring data analytics and database management to strengthen my understanding of data-driven decision-making.
+  Advancing my coding skills in Python, C, and C++ to tackle more complex programming challenges.
+   Expanding my proficiency with tools like Figma and Canva for UI/UX design and visual content creation.
 
 - 👯 I’m looking to collaborate on **I'm open to collaborating on projects that involve web development, AI-driven solutions, and innovative applications of technology. Whether it's creating web applications, implementing AI algorithms, or contributing to open-source initiatives, I'm eager to join teams that value creativity, problem-solving, and a passion for building solutions that make a real-world impact. If you have a project that aligns with my skills and interests, feel free to reach out, and let's work together to bring our ideas to life.**
 
