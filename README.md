@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Y Teresha</h1>
-<h3 align="center">Software Engineer | Web Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Web Developer | AI-ML Enthusiast</h3>
 
 
 
