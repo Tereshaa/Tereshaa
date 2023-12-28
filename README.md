@@ -16,7 +16,7 @@ I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast curr
 - 👯 I'm open to collaborating on projects involving web development, AI-driven solutions, and innovative applications of technology. If you have a project aligning with my skills and interests, let's bring our ideas to life.
 
 ## Projects
-- 🌐 Explore my projects at [https://portfolio-gold-six-50.vercel.app/](https://portfolio-gold-six-50.vercel.app/)
+- 🌐 Explore my projects at [https://portfolio-website-two-topaz.vercel.app/](https://portfolio-website-two-topaz.vercel.app/)
 
 ## Let's Connect
 - 💬 Ask me about web development, my B.Tech journey, projects, hackathon experiences, or any programming-related questions.
