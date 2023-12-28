@@ -7,10 +7,10 @@
 I am a passionate Software Engineer, Web Developer, and AI Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering, and I thrive on expanding my expertise in various domains.
 
 ## What I'm Up To
-- 🔭 I'm currently focusing on advanced web development techniques, including React for front-end and Node.js for back-end.
+- 🔭 I'm currently focusing on advanced web development techniques.
 - 🌱 I'm delving into data analytics and database management to strengthen my grasp of data-driven decision-making.
 - 💻 I'm advancing my coding skills in Python, C, and C++ to tackle more complex programming challenges.
-- 🎨 I'm expanding my proficiency with UI/UX design tools like Figma and Canva.
+- 🎨 I'm expanding my proficiency with UI/UX design tools.
 
 ## Collaboration
 - 👯 I'm open to collaborating on projects involving web development, AI-driven solutions, and innovative applications of technology. If you have a project aligning with my skills and interests, let's bring our ideas to life.
