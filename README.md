@@ -32,3 +32,4 @@ I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast curr
 
 
 Looking forward to connecting and creating awesome things together! 🚀
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
