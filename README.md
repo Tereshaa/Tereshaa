@@ -32,4 +32,9 @@ I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast curr
 
 
 Looking forward to connecting and creating awesome things together! 🚀
-![](https://komarev.com/ghpvc/?username=tereshaa&color=green)
+<div align = "center">
+<h3><b>Profile Visits</b></h3>
+<img width = 25% src = "https://profile-counter.glitch.me/{Tereshaa}/count.svg">
+	
+<hr>
+</div>
