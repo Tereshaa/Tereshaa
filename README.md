@@ -1,22 +1,24 @@
-<h4 align="center">Software Engineer | Web Developer | AI-ML Enthusiast</h4>
-
-###
-
 <h1 align="center">Hi 👋, I'm Y Teresha</h1>
 
-###
 
-<h3 align="left">About Me</h3>
 
 ###
 
-<br clear="both">
+<h3 align="center">Software Engineer | Web Developer | AI-ML Enthusiast</h3>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
 
 <p align="left">I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering, and I thrive on expanding my expertise in various domains.</p>
 
+
 ###
 
-<h3 align="left">Languages</h3>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -32,7 +34,7 @@
 
 ###
 
-<h3 align="left">Web Development</h3>
+<h2 align="left">Web Development</h2>
 
 ###
 
@@ -68,7 +70,7 @@
 
 ###
 
-<h3 align="left">Databases and Cloud</h3>
+<h2 align="left">Databases and Cloud</h2>
 
 ###
 
@@ -88,7 +90,7 @@
 
 ###
 
-<h3 align="left">AI-ML-DS</h3>
+<h2 align="left">AI-ML-DS</h2>
 
 ###
 
@@ -108,7 +110,7 @@
 
 ###
 
-<h3 align="left">UI/UX and Tools</h3>
+<h2 align="left">UI/UX and Tools</h2>
 
 ###
 
@@ -145,7 +147,7 @@
 
 ###
 
-<h3 align="left">What I'm Up To</h3>
+<h2 align="left">What I'm Up To</h2>
 
 ###
 
