@@ -138,14 +138,10 @@
 
 ###
 
-<div align="left">
-  <a href="teresha1903@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/y-teresha1903/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
+| <a href="teresha1903@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a> | <a href="https://www.linkedin.com/in/y-teresha1903/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a> | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2h2eDBqNzBhcm9yMG11eGRicHRudG55cWlpbDM5amNleTdlc21ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" width="240" height="180"/> | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMxbTY5NXNxZjBja3lod3h1cjk4YXc5czVueTZ4MnFlMWd4YjVrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="240" height="180"/> |
+| --- | --- | --- | --- |
+
 
 ###
 
