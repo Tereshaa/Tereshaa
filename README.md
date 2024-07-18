@@ -63,9 +63,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+
+
 </div>
 
 ###
@@ -105,7 +104,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+
 </div>
 
 ###
@@ -158,7 +157,7 @@
 <p align="left">🌐 Explore my projects at https://portfolio-website-two-topaz.vercel.app/<br>👯 I'm open to collaborating on projects involving web development, AI-driven solutions, and innovative applications of technology. If you have a project aligning with my skills and interests, let's bring our ideas to life.</p>
 
 ###
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/teresha?theme=dark&font=Russo%20One&ext=heatmap)
 <div align="center">
   <img src="https://profile-counter.glitch.me/tereshaa/count.svg?"  />
 </div>
