@@ -4,6 +4,7 @@
 
 ###
 
+<h3 align="center">Intern @Oracle (●'◡'●) </h3>
 <h3 align="center">Software Engineer | Web Developer | AI-ML Enthusiast</h3>
 
 ###
